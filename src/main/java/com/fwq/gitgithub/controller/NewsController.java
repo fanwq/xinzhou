@@ -22,6 +22,7 @@ public class NewsController {
         NewsDO news1 = new NewsDO(1, "aaa", "cccccccccc");
         NewsDO news2 = new NewsDO(2, "bbb", "dddddd");
         NewsDO news3 = new NewsDO(3, "rrr", "tttttttt");
+        NewsDO news4 = new NewsDO(4, "ttt", "ddddddd");
 
         List<NewsDO> list = new ArrayList<>();
         list.add(news1);
